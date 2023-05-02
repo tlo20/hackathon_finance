@@ -1,7 +1,7 @@
 import { Card, Button } from 'react-bootstrap'
 import { useRouter } from 'next/router';
 
-export function MenuItem(props) {
+export function Menuitem(props) {
 
     const router = useRouter()
 

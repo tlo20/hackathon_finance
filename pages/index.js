@@ -1,5 +1,5 @@
 import { Inter } from 'next/font/google'
-import { MenuItem } from '../components/Menuitem.js'
+import { MenuItem } from '../components/Menuitem'
 import { CardGroup } from 'react-bootstrap'
 
 
